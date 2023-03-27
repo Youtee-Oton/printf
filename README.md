@@ -76,7 +76,3 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### 16. * 
 * All the above options work well together.
-
----
-# Author: 
-[Dr Marcus](https://github.com/Dr-MarcusI) and [ABDULLAHI](https://github.com/aduadba)
